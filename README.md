@@ -1,4 +1,4 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)(https://www.princedev.in/)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)](https://www.princedev.in/)
 <h1 align="center">Hi 👋, I'm Prince Jacob</h1>
 <h3 align="center">A Full Stack Developer</h3>
 <img align="right" alt="" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1727712287~exp=1727715887~hmac=85b3e07be9ecdcbffda60293082e61dde4209a6b7f8f282e495844c4580c8c43&w=826">
