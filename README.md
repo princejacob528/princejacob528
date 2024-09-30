@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👨‍💻 All of my projects are available at [https://www.princedev.in/](https://www.princedev.in/)
+- 👨‍💻 All of my projects are available at [PrinceDev.in](https://www.princedev.in/)
 
 - 💬 Ask me about **React, MERN, Web App**
 
